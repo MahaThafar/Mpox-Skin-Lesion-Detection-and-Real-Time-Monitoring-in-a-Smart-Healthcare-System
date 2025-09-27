@@ -1,9 +1,8 @@
 # Mpox-Skin-Lesion-Detection-and-Real-Time-Monitoring-in-a-Smart-Healthcare-System
 Official implementation of ITMA'INN: A Smart Healthcare System for Mpox Skin Lesion Detection and Real-Time Monitoring. Includes deep learning models (ViT, MobileViT, ResNetViT, TNT, etc.), preprocessing pipelines, training scripts, and dashboard integration.
 
-# ITMA'INN: Smart Healthcare System for Mpox Skin Lesion Detection and Real-Time Monitoring  
 
-This repository contains the official implementation of **ITMA'INN**, an AI-powered healthcare system for early detection and monitoring of Monkeypox (Mpox) skin lesions.  
+##### This repository contains the official implementation of **ITMA'INN**, an AI-powered healthcare system for early detection and monitoring of Monkeypox (Mpox) skin lesions.  
 
 The system integrates:  
 - **Deep Learning Models**: Transformer-based (ViT, MobileViT, ResNetViT, TNT, Swin) and CNN-based baselines (VGG16, ResNet50, EfficientNet-B0).  

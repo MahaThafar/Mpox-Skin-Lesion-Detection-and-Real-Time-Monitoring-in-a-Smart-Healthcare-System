@@ -9,4 +9,4 @@ The datasets used in this study for both binary and multiclass classification ta
   [https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20)
 
 - **MSID Dataset (Multiclass classification, 4 classes, also used for external validation)**  
-  [https://www.kaggle.com/datasets/mehrabrahman/monkeypox-skin-images-dataset](https://www.kaggle.com/datasets/mehrabrahman/monkeypox-skin-images-dataset)
+  [https://www.kaggle.com/datasets/mehrabrahman/monkeypox-skin-images-dataset](https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset)

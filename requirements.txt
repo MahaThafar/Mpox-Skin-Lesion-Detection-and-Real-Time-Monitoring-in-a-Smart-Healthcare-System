@@ -1,0 +1,9 @@
+Python: 3.10.12
+PyTorch: 2.3.1
+Torchvision: 0.18.1
+TIMM: 1.0.8
+scikit-learn: 1.5.1
+Torchinfo: 1.8.0
+Matplotlib: 3.9.2
+TQDM: 4.66.5
+Pillow: 10.3.0

@@ -15,20 +15,7 @@ The system integrates:
 
 ## 📂 Repository Structure  
 
-├── data/ # Dataset preparation scripts (links to Kaggle datasets)
-├── models/ # Pretrained models and fine-tuned weights
-├── notebooks/ # Jupyter notebooks for experimentation
-├── src/ # Training, evaluation, and utility scripts
-│ ├── train.py # Training pipeline
-│ ├── evaluate.py # Evaluation scripts
-│ ├── utils.py # Helper functions
-├── dashboard/ # Dashboard integration scripts
-├── mobile_app/ # Mobile app source (Flutter/React Native)
-├── requirements.txt # Python dependencies
-└── README.md # Project description
 
-yaml
-Copy code
 
 ---
 

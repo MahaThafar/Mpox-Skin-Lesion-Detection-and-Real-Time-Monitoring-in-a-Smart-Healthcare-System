@@ -45,7 +45,7 @@ We used three publicly available datasets (Kaggle):
 To install dependencies:  
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## 📂 For citation: 

@@ -56,7 +56,10 @@ pip install -r requirements.txt
 
 ## 📂 Citation 
 ``` 
-Alghoraibi, Huda, Nuha Alqurashi, Sarah Alotaibi, Renad Alkhudaydi, Bdoor Aldajani, Joud Batawil, Lubna Alqurashi, Azza Althagafi, and Maha A. Thafar. "Deep Learning-Based Mpox Skin Lesion Detection and Real-Time Monitoring in a Smart Healthcare System." Diagnostics 15, no. 19 (2025): 2505.
+Alghoraibi, Huda, Nuha Alqurashi, Sarah Alotaibi, Renad Alkhudaydi, Bdoor Aldajani,
+Joud Batawil, Lubna Alqurashi, Azza Althagafi, and Maha A. Thafar.
+"Deep Learning-Based Mpox Skin Lesion Detection and Real-Time Monitoring in a Smart Healthcare System."
+Diagnostics 15, no. 19 (2025): 2505.
 
 ```
 

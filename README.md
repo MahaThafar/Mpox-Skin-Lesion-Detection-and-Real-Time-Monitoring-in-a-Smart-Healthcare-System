@@ -4,7 +4,7 @@ Official implementation of ITMA'INN: A Smart Healthcare System for Mpox Skin Les
 - **Revised:** 27 September 2025  
 - **Accepted:** Pending
 
-  ## 📂 Research Paper Refrence:
+  ## 📂 Research Paper Reference:
   - https://www.mdpi.com/2075-4418/15/19/2505
     
 
@@ -16,12 +16,6 @@ The system integrates:
 - **Training & Evaluation Scripts**: For binary and multiclass classification (6-class and 4-class).  
 - **Dashboard Integration**: Real-time monitoring for health authorities using Power BI.  
 - **Mobile Application**: Cross-platform (Android/iOS) app for user-side lesion detection and reporting.  
-
----
-
-## 📂 Repository Structure  
-
-
 
 ---
 

@@ -4,6 +4,10 @@ Official implementation of ITMA'INN: A Smart Healthcare System for Mpox Skin Les
 - **Revised:** 27 September 2025  
 - **Accepted:** Pending
 
+  ## 📂 Research Paper Refrence:
+  - https://www.mdpi.com/2075-4418/15/19/2505
+    
+
 ##### This repository contains the official implementation of **ITMA'INN**, an AI-powered healthcare system for early detection and monitoring of Monkeypox (Mpox) skin lesions.  
 
 The system integrates:  
@@ -51,7 +55,9 @@ pip install -r requirements.txt
 ---
 
 ## 📂 Citation 
-``` to be determined later
+``` 
+Alghoraibi, Huda, Nuha Alqurashi, Sarah Alotaibi, Renad Alkhudaydi, Bdoor Aldajani, Joud Batawil, Lubna Alqurashi, Azza Althagafi, and Maha A. Thafar. "Deep Learning-Based Mpox Skin Lesion Detection and Real-Time Monitoring in a Smart Healthcare System." Diagnostics 15, no. 19 (2025): 2505.
+
 ```
 
 
